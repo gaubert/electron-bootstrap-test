@@ -13,7 +13,7 @@
     "react",
     "babel"
   ],
-  "author": "Quramy",
+  "author": "Guillaume Aubert",
   "license": "MIT",
   "dependencies": {
     "lodash": "^3.9.3",

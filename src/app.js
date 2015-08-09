@@ -18,11 +18,10 @@ app.on('window-all-closed', () => {
 });
 
 app.on('ready', () => {
-  //Menu.setApplicationMenu(appMenu);
+  Menu.setApplicationMenu(appMenu);
   mainWindow = new BrowserWindow({
-    width: 580,
-    height: 365
+    width: 800,
+    height: 600
   });
   mainWindow.loadUrl('file://' + __dirname + '/renderer/index.html');
 });
-
