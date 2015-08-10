@@ -1,4 +1,4 @@
-# electron-jsx-babel-boilerplate
+# Taken from electron-jsx-babel-boilerplate
 
 This is a sample repository of [Electron](http://electron.atom.io/) application.
 
